@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LeopardEnMon", "LeopardEnMon\LeopardEnMon.vbproj", "{69BD779D-62C3-4389-9312-31064D1AE5BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69BD779D-62C3-4389-9312-31064D1AE5BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69BD779D-62C3-4389-9312-31064D1AE5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69BD779D-62C3-4389-9312-31064D1AE5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69BD779D-62C3-4389-9312-31064D1AE5BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03E2FF2C-45B2-4384-84A8-2648F014D7B8}
+	EndGlobalSection
+EndGlobal

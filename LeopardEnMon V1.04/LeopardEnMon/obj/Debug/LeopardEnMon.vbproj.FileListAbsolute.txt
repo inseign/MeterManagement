@@ -1,0 +1,103 @@
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon\LeopardEnMon\bin\Debug\LeopardEnMon.exe.config
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon\LeopardEnMon\bin\Debug\LeopardEnMon.exe
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon\LeopardEnMon\bin\Debug\LeopardEnMon.pdb
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon\LeopardEnMon\bin\Debug\LeopardEnMon.xml
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon\LeopardEnMon\bin\Debug\MySql.Data.dll
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon\LeopardEnMon\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon\LeopardEnMon\bin\Debug\MySql.Data.xml
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon\LeopardEnMon\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon\LeopardEnMon\obj\Debug\LeopardEnMon.Resources.resources
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon\LeopardEnMon\obj\Debug\LeopardEnMon.vbproj.GenerateResource.Cache
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon\LeopardEnMon\obj\Debug\LeopardEnMon.vbproj.CoreCompileInputs.cache
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon\LeopardEnMon\obj\Debug\LeopardEnMon.exe
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon\LeopardEnMon\obj\Debug\LeopardEnMon.xml
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon\LeopardEnMon\obj\Debug\LeopardEnMon.pdb
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon\LeopardEnMon\obj\Debug\LeopardEnMon.Main.resources
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon\LeopardEnMon\obj\Debug\LeopardEnMon.SplashScreen.resources
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon\LeopardEnMon\obj\Debug\LeopardEnMon.vbproj.ResolveComReference.cache
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon\LeopardEnMon\obj\Debug\LeopardEnMon.vbprojResolveAssemblyReference.cache
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon V1.02\LeopardEnMon\bin\Debug\LeopardEnMon.exe.config
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon V1.02\LeopardEnMon\bin\Debug\LeopardEnMon.exe
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon V1.02\LeopardEnMon\bin\Debug\LeopardEnMon.pdb
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon V1.02\LeopardEnMon\bin\Debug\LeopardEnMon.xml
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon V1.02\LeopardEnMon\bin\Debug\MySql.Data.dll
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon V1.02\LeopardEnMon\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon V1.02\LeopardEnMon\bin\Debug\MySql.Data.xml
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon V1.02\LeopardEnMon\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon V1.02\LeopardEnMon\obj\Debug\LeopardEnMon.vbprojResolveAssemblyReference.cache
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon V1.02\LeopardEnMon\obj\Debug\LeopardEnMon.vbproj.ResolveComReference.cache
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon V1.02\LeopardEnMon\obj\Debug\LeopardEnMon.Main.resources
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon V1.02\LeopardEnMon\obj\Debug\LeopardEnMon.SplashScreen.resources
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon V1.02\LeopardEnMon\obj\Debug\LeopardEnMon.Resources.resources
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon V1.02\LeopardEnMon\obj\Debug\LeopardEnMon.vbproj.GenerateResource.Cache
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon V1.02\LeopardEnMon\obj\Debug\LeopardEnMon.vbproj.CoreCompileInputs.cache
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon V1.02\LeopardEnMon\obj\Debug\LeopardEnMon.exe
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon V1.02\LeopardEnMon\obj\Debug\LeopardEnMon.xml
+C:\Users\terry.DCEELECTRICAL\source\repos\LeopardEnMon V1.02\LeopardEnMon\obj\Debug\LeopardEnMon.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.02\LeopardEnMon\obj\Debug\LeopardEnMon.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.02\LeopardEnMon\obj\Debug\LeopardEnMon.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.02\LeopardEnMon\obj\Debug\LeopardEnMon.Main.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.02\LeopardEnMon\obj\Debug\LeopardEnMon.SplashScreen.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.02\LeopardEnMon\obj\Debug\LeopardEnMon.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.02\LeopardEnMon\obj\Debug\LeopardEnMon.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.02\LeopardEnMon\obj\Debug\LeopardEnMon.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.02\LeopardEnMon\obj\Debug\LeopardEnMon.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.02\LeopardEnMon\obj\Debug\LeopardEnMon.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.02\LeopardEnMon\obj\Debug\LeopardEnMon.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.02\LeopardEnMon\bin\Debug\LeopardEnMon.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.02\LeopardEnMon\bin\Debug\LeopardEnMon.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.02\LeopardEnMon\bin\Debug\LeopardEnMon.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.02\LeopardEnMon\bin\Debug\LeopardEnMon.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.02\LeopardEnMon\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.02\LeopardEnMon\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.03\LeopardEnMon\bin\Debug\LeopardEnMon.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.03\LeopardEnMon\bin\Debug\LeopardEnMon.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.03\LeopardEnMon\bin\Debug\LeopardEnMon.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.03\LeopardEnMon\bin\Debug\LeopardEnMon.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.03\LeopardEnMon\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.03\LeopardEnMon\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.03\LeopardEnMon\obj\Debug\LeopardEnMon.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.03\LeopardEnMon\obj\Debug\LeopardEnMon.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.03\LeopardEnMon\obj\Debug\LeopardEnMon.Main.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.03\LeopardEnMon\obj\Debug\LeopardEnMon.SplashScreen.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.03\LeopardEnMon\obj\Debug\LeopardEnMon.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.03\LeopardEnMon\obj\Debug\LeopardEnMon.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.03\LeopardEnMon\obj\Debug\LeopardEnMon.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.03\LeopardEnMon\obj\Debug\LeopardEnMon.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.03\LeopardEnMon\obj\Debug\LeopardEnMon.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.03\LeopardEnMon\obj\Debug\LeopardEnMon.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.03\LeopardEnMon\obj\Debug\LeopardEnMon.Tenants.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.04\LeopardEnMon\bin\Debug\LeopardEnMon.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.04\LeopardEnMon\bin\Debug\LeopardEnMon.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.04\LeopardEnMon\bin\Debug\LeopardEnMon.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.04\LeopardEnMon\bin\Debug\LeopardEnMon.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.04\LeopardEnMon\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.04\LeopardEnMon\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.Main.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.SplashScreen.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.Tenants.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\repos\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.pdb
+E:\LeopardEnMon V1.04\LeopardEnMon\bin\Debug\LeopardEnMon.exe.config
+E:\LeopardEnMon V1.04\LeopardEnMon\bin\Debug\LeopardEnMon.exe
+E:\LeopardEnMon V1.04\LeopardEnMon\bin\Debug\LeopardEnMon.pdb
+E:\LeopardEnMon V1.04\LeopardEnMon\bin\Debug\LeopardEnMon.xml
+E:\LeopardEnMon V1.04\LeopardEnMon\bin\Debug\MySql.Data.dll
+E:\LeopardEnMon V1.04\LeopardEnMon\bin\Debug\MySql.Data.xml
+E:\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.vbprojResolveAssemblyReference.cache
+E:\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.vbproj.ResolveComReference.cache
+E:\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.Main.resources
+E:\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.SplashScreen.resources
+E:\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.Resources.resources
+E:\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.Tenants.resources
+E:\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.vbproj.GenerateResource.Cache
+E:\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.vbproj.CoreCompileInputs.cache
+E:\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.exe
+E:\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.xml
+E:\LeopardEnMon V1.04\LeopardEnMon\obj\Debug\LeopardEnMon.pdb

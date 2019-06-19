@@ -1,0 +1,1 @@
+"SELECT history_meta_meters.TableName, history_meta_meters.MeterCategory, history_meta_tenants.TenantCode, history_meta_tenants.TenantName FROM niagaradb.history_meta_meters JOIN niagaradb.history_meta_tenants ON history_meta_meters.TenantId = history_meta_tenants.Id WHERE history_meta_meters.USED='YES'"
